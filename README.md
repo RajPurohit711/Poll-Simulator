@@ -2,8 +2,8 @@
 EC Lab-1 - Poll Simulator
 
 ## Start Guid
-### npm install
-### npm start
+### > npm install
+### > npm start
 ## Presentation Logic is in VIEW folder and Business Logic is in app.js file
 
 #### 1. Click on the add candidate Link so that user can enter candidates.
